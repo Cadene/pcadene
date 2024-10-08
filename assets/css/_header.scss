@@ -70,7 +70,8 @@
         float: none;
         height: auto;
         text-align: right;
-        margin-bottom: 20px;
+        //margin-bottom: 20px;
+        margin-bottom: 5px;
     }
     .navbar-fixed-side .navbar-brand-img, .navbar-fixed-side .navbar-brand-title, .navbar-fixed-side .navbar-brand-description {
         display: block;
@@ -98,7 +99,8 @@
     }
 
     .navbar-fixed-side .navbar-brand-description {
-        font-size: 1.1em;
+        //font-size: 1.1em;
+        font-size: 0.9em;
     }
 
     .navbar-fixed-side.navbar-inverse .navbar-brand-title {

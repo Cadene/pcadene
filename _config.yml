@@ -1,21 +1,20 @@
 # Website title & description (the description is used in the HTML <head>, read by Google and co)
 title: Philippe Cadene
 description: >
-  I am Professor at Paris 7, Researcher in the .....
 
-  My research interests include: Geography, Economy, Sociologie 
-
-
+  My name is Philippe Cadene. I am Emeritus Professor at Université Paris Cité, France, where I taught for more than two decades Economic Geography, Regional Studies and Development Studies
+  
 # Your personal infos (used for the sidebar)
 author:
   # Site title
   name: Philippe Cadene
-  description: Professor
+  # _includes/header.html
+  description: Emeritus Professor, Economic Geography and Development Studies - Departement of Geography - Université Paris Cité- GHES School - Researcher at CESSMA
   photo: /images/photo.jpg
   # Contacts (will be used by the contact block, you can enter everything here and choose which one should appear there)
-  email: philippe.cadene@gmail.com
-  phone: 01 23 45 67 89
-  address: "Couloir 26-00, Bureau 525 \n 4, place Jussieu \n 75005 Paris \n France"
+  email: philippe.cadene@u-paris.fr
+  phone: +33 6 03 03 18 28
+  address: "Pr. Philippe Cadene \n CESSMA Université Paris Cité\n Case courrier 7017 \n 75205 PARIS CEDEX 13 \n France"
   twitter: username
   linkedin: username
   github: username
@@ -23,14 +22,14 @@ author:
 
 
 # Link that appear at the top of the sidebar to return to the "main" site of the team, remove lines below to remove link
-back-link:
-  url: http://philippecadene.fr
-  title: Multimedia team
+#back-link:
+#  url: http://philippecadene.fr
+#  title: Multimedia team
 
 
 # Technical infos
 baseurl: "" # url of your webpage if not at the root of the domain (leading /, no trailing /)
-url: "" # the base hostname & protocol for your site (no trailing /)
+url: "http://philippecadene.fr" # the base hostname & protocol for your site (no trailing /)
 header-default-style: trianglify # default page header style (see styles in user documentation)
 # google-analytics: UA-XXXXXXX-X # your google analytics code if you want visit stats (uncomment to enter)
 

@@ -1,3 +1,46 @@
+# Information 
+
+## Générer le site web en local
+
+Lancer l'application Terminal (en utilisant spotlight par exemple).
+
+Puis copier coller deux lignes dans terminal (et valider avec la touche entrer):
+
+```
+cd /Users/philippecadene/Dropbox/site_philippe_cadene
+jekyll serve --watch
+```
+
+Vérifier le site hors ligne en ouvrant une fenetre avec google chrome et tapper :
+
+```
+localhost:4000
+```
+
+
+## Uploader le site web
+
+Lancer l'application Filezilla.
+
+Cliquer sur l'icone la plus en haut à gauche (Gestionnaire de sites).
+
+Cliquer sur le bouton connexion (en bas à droite).
+
+Dans la fenêtre "Site distant" cliquer sur le dossier "philippecadene".
+
+Ouvrir avec l'application Finder le dossier "Dropbox/site_philippe_cadene/_site".
+
+Faire glisser tous les fichiers de Finder vers le site distant sur Filezilla.
+
+Cocher "Remplacer si la source est plus récente" et "Toujours effectuer cette action", puis cliquer sur le bouton "OK".
+
+
+### Vérifier le site en ligne
+
+Ouvrir une fenetre dans google chrome: http://philippecadene.fr
+Ne pas oublier d'appuyer sur les touches "CMD + Maj + R" afin de recharger la page et le cache.
+
+
 # Chordettes webpages
 
 This repository provides a template to generate webpages for the team of [Matthieu Cord](http://webia.lip6.fr/~cord/). The followup of this file is the documentation of this template and will be in French.

@@ -1,43 +1,128 @@
-- title: "MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking" # Titre (obligatoire)
-  authors: T. Durand, N. Thome, M. Cord # Auteurs (obligatoire)
-  year: 2015 # Année de publication (obligatoire)
-  type: conf # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
-  in: ICCV # Nom de la conférence / du journal (optionnel)
-  additional: p. 123-234, chapter 12 # Infos additionnelles quelconques (pages, chapitre, IF, etc.) que vous voulez voir figurer après l'année de publication, en plus petit (optionnel)
-  # Entrée BibTex (optionnel)
-  bibtex: |
-    @inproceedings{mantraICCV15,
-      Author = {Thibaut Durand and Nicolas Thome and Matthieu Cord},
-      Title = {MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking},
-      booktitle = {IEEE International Conference on Computer Vision (ICCV)},
-      Year = {2015}
-    }
-
-- title: "MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking" # Titre (obligatoire)
-  authors: T. Durand, N. Thome, M. Cord # Auteurs (obligatoire)
-  year: 2015 # Année de publication (obligatoire)
+- title: Challenging global changes in a post-revolutionary context. The case of irrigated olive growing in central Tunisia
+  authors: A. SHABAN, Ph. CADENE 
+  year: 2023 # Année de publication (obligatoire)
   type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
-  in: ICCV # Nom de la conférence / du journal (optionnel)
-  additional: p. 123-234, chapter 12 # Infos additionnelles quelconques (pages, chapitre, IF, etc.) que vous voulez voir figurer après l'année de publication, en plus petit (optionnel)
-  # Entrée BibTex (optionnel)
-  bibtex: |
-    @inproceedings{mantraICCV15,
-      Author = {Thibaut Durand and Nicolas Thome and Matthieu Cord},
-      Title = {MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking},
-      booktitle = {IEEE International Conference on Computer Vision (ICCV)},
-      Year = {2015}
-    }
+  additional: "Geographica Helvetica"
 
-- title: "MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking" # Titre (obligatoire)
-  authors: T. Durand, N. Thome, M. Cord # Auteurs (obligatoire)
+- title: Causality Between Cultural Diversity and Economic Growth in India. Cross State Study, 1990–1991 through 2017–2018
+  authors: A. SHABAN, Ph. CADENE 
+  year: 2023 # Année de publication (obligatoire)
+  type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "Society"
+  
+- title: "Cultural Embeddedness of Gems and Jewellery Entrepreneurs in Jaipur"
+  authors: Ph. CADENE
+  year: 2022 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in SHABAN A., VERMYLEN F., HANDKE Ch. (Eds.) Creative Industries in India. London, Routledge"
+
+- title: "Préface"
+  authors: Ph. CADENE
+  year: 2021 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in ATIK M., POTTIER N., EL OUAHIDI A. (Eds.), Aléas, vulnérabilités et résiliences territoriales. Regards croisés euro-méditerranéens. Agadir, Publication de la Faculté des Langues, Arts et Sciences Humaines, Université Ibn Zohr"
+
+- title: Les corridors industriels en Inde (Industrial Corridors in India)
+  authors: Ph. CADENE, RAULT Y.-M.  
+  year: 2019 # Année de publication (obligatoire)
+  type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "EchoGéo"
+
+- title: Atlas national de Corée. Édition synthétique (French traduction and adaptation of the National Atlas of Korea)
+  authors: Ph. CADENE, P.-E. ROUX, D. YIM 
+  year: 2019 # Année de publication (obligatoire)
+  type: book # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "Institut national de l'information géographique Ministère du Territoire, de l'équipement et des transports"
+
+- title: "État et religions en Inde (State and Religions in India)"
+  authors: Ph. CADENE
+  year: 2019 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in COTE S. and al., Histoire, Géographie, Géopolitique, Classe de 1er, Paris Nahan"
+
+- title: "Asie du Sud” (South Asia)"
+  authors: Ph. CADENE
+  year: 2018 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "Nora Mareï, Yann Richard (Eds), Dictionnaire de la régionalisation du monde, Paris, Atlande"
+
+- title: "L'urbanisation en Afrique, du Sahel à la Méditerranée"
+  authors: Ph. CADENE, B. DUMORTIER
+  year: 2017 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "B. Dumortier (ed.), L'Afrique : du Sahel et du Sahara à la Méditerranée, Paris, Colin"
+
+- title: "Tourism Development in the Thar Desert, Rajasthan"
+  authors: Ph. CADENE
+  year: 2017 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "E. Lavie and A. Marshall (eds.), Oases and Globalisation, Springer International Publishing"
+
+- title: "L’émergence de l’Inde : dynamiques métropolitaines ; ouverture maritime" # Titre (obligatoire)
+  authors: Ph. CADENE # Auteurs (obligatoire)
+  year: 2017 # Année de publication (obligatoire)
+  type: journal editor # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: Numéro spécial du BAGF # Infos additionnelles quelconques (pages, chapitre, IF, etc.) que vous voulez voir figurer après l'année de publication, en plus petit (optionnel)
+# Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: Paris, Colin # Infos additionnelles quelconques (pages, chapitre, IF, etc.) que vous voulez voir figurer après l'année de publication, en plus petit (optionnel)
+
+- title: "Introduction"
+  authors: Ph. CADENE
+  year: 2017 # Année de publication (obligatoire)
+  type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in CADENE Ph., (Eds.), 2017, L’émergence de l’Inde : dynamiques métropolitaines ; ouverture maritime, Numéro spécial du BAGF"
+
+- title: "La construction d'une vaste région économique au nord-ouest de l'Inde : le corridor de développement Delhi-Mumbai"
+  authors: Ph. CADENE
+  year: 2017 # Année de publication (obligatoire)
+  type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in CADENE Ph., (Eds.), 2017, L’émergence de l’Inde : dynamiques métropolitaines ; ouverture maritime, Numéro spécial du BAGF"
+
+- title: "Les liens entre dieux, société et nature en Inde (Relations between gods, society and nature in India)"
+  authors: Ph. CADENE
+  year: 2016 # Année de publication (obligatoire)
+  type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "Géoconfluences"
+  url: http://geoconfluences.ens-lyon.fr/informations-scientifiques/dossiers-thematiques/fait-religieux-et-construction-de-l-espace/corpus-documentaire/les-liens-entre-dieux-societe-et-nature-en-inde
+
+- title: "Les 'Corridors de développement' entre économie globale et politique régionale : le cas de la 'Norther Corridor Economic Region' en Malaisie (The Development Corridors: between global economy and regional policy)" 
+  authors: Ph. CADENE
+  year: 2016 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in ANDROUAIS A., COBBI J. (Eds.), Ville et Environnement. Culture, Métropolisation, Pôles de compétitivité (Cities and Environment. Culture, Metropolisation, Competitiveness poles), Paris, L'Harmattan." # Titre (obligatoire)
+
+- title: "Bibliography sur la nouvelle question : l'Union indienne"
+  authors: Ph. CADENE, B. DUMORTIER
+  year: 2016 # Année de publication (obligatoire)
+  type: journal # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "Historiens & Géographes, n°432"
+
+- title: "Inde et Asie du Sud (India and South Asia)" # Titre (obligatoire)
+  authors: Ph. CADENE, I. MILBERT # Auteurs (obligatoire)
   year: 2015 # Année de publication (obligatoire)
   type: book # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
-  additional: p. 123-234, chapter 12 # Infos additionnelles quelconques (pages, chapitre, IF, etc.) que vous voulez voir figurer après l'année de publication, en plus petit (optionnel)
-  # Entrée BibTex (optionnel)
-  bibtex: |
-    @inproceedings{mantraICCV15,
-      Author = {Thibaut Durand and Nicolas Thome and Matthieu Cord},
-      Title = {MANTRA: Minimum Maximum Latent Structural SVM for Image Classification and Ranking},
-      booktitle = {IEEE International Conference on Computer Vision (ICCV)},
-      Year = {2015}
-    }
+  additional: Paris, Ellipses # Infos additionnelles quelconques (pages, chapitre, IF, etc.) que vous voulez voir figurer après l'année de publication, en plus petit (optionnel)
+
+- title: "L’Inde, une géographie (India, a Geography)" # Titre (obligatoire)
+  authors: Ph. CADENE, B. DUMORTIER # Auteurs (obligatoire)
+  year: 2015 # Année de publication (obligatoire)
+  type: book 
+
+- title: "Différenciation et intégration du territoire indien (Differenciation and Integration of the Indian Territory"
+  authors: Ph. CADENE
+  year: 2015 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in CADENE Ph, DUMORTIER B. (Eds.), L’Inde, une géographie, Paris, Colin"
+
+- title: "La construction de la puissance industrielle indienne (The Building of an Indian Industrial Power)"
+  authors: Ph. CADENE
+  year: 2015 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in CADENE Ph, DUMORTIER B. (Eds.), L’Inde, une géographie, Paris, Colin"
+
+- title: "Le tourisme en Inde : imaginaire et réalités (Tourism in India: Imaginary and Realities)"
+  authors: N. BAUTES, Ph. CADENE, B. DUMORTIER
+  year: 2015 # Année de publication (obligatoire)
+  type: bookchapter # Type de papier (obligatoire), idéalement parmi [conf, workshop, journal, book, bookchapter], mais ajoutez votre propre type si besoin
+  additional: "in CADENE Ph, DUMORTIER B. (Eds.), L’Inde, une géographie, Paris, Colin"
+
